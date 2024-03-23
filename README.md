@@ -1,3 +1,6 @@
+# Mess Master
+
+A Mess Master is a Application developed in flutter for the Mess owner who are managing the mess on pen and paper. 
 A simple UI same as the Mess Register is created as per there convinence so to manage the mess become easy.
 
 ## Our Applications Features
